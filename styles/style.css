@@ -47,7 +47,7 @@ body {
     margin: 0 auto;
 }
 
-.q-container h2 {
+.q-container h1 {
     width: 90%;   
     color: var(--clr-slate-900);   
     font-size: 1.37rem;
