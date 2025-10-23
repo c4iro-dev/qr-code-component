@@ -25,16 +25,12 @@ body {
     min-height: 100vh;
 }
 
-main {
-    flex: 1;    
-}
-
 .container {
     background-color: var(--clr-white);
     padding: 16px;
     border-radius: 20px;
     max-width: 284px;
-    margin: 226px auto 0;
+    margin: 45px auto 0;
     box-shadow: var(--shadow-card);
 }
 
@@ -71,7 +67,7 @@ main {
 
 footer {
     text-align: center;
-    padding: 0 0 20px;
+    padding: 10px 0;
 }
 
 .attribution {
@@ -85,7 +81,7 @@ footer {
 
 @media (max-width: 430px) {    
     .container {
-        margin-top: 156px;
+        margin: 0 auto;
         max-width: 290px;
     }    
 }
