@@ -47,11 +47,11 @@ As I iterated, I became more deliberate about understanding how each CSS propert
 
 My biggest takeaways from this project were:
 
-Gaining a stronger grasp of margin and padding for spacing control.
+* Gaining a stronger grasp of margin and padding for spacing control.
 
-Learning to fine-tune font-size, font-weight, and line-height for closer design matching.
+* Learning to fine-tune font-size, font-weight, and line-height for closer design matching.
 
-Improving my CSS organization and naming consistency for clarity and maintainability.
+* Improving my CSS organization and naming consistency for clarity and maintainability.
 
 Here are a couple of code examples that I’m proud of:
 
