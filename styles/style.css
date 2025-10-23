@@ -83,7 +83,7 @@ footer {
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 375px) {    
+@media (max-width: 430px) {    
     .container {
         margin-top: 156px;
         max-width: 290px;
